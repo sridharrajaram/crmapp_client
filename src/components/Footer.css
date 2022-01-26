@@ -1,0 +1,10 @@
+.footer {
+  width: 100%;
+}
+
+@media (min-width: 576px) {
+  .footer {
+    position: fixed;
+    bottom: 0;
+  }
+}
