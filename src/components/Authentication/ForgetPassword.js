@@ -43,7 +43,7 @@ function ForgetPassword() {
   return (
     <>
       <HomeNav />
-      <main className="bg-primary forget-password-page">
+      <main className="bg-dark forget-password-page">
         <div className="container">
           <div className="row justify-content-center">
             <div className="col-lg-5">
