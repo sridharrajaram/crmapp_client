@@ -12,6 +12,7 @@ import Footer from "../Footer";
 import TextError from "./TextError";
 
 const SERVER_URL = "https://sridharrajaram-crmapp.herokuapp.com";
+//const SERVER_URL = "http://localhost:5000";
 
 const server = axios.create({
   baseURL: SERVER_URL,
