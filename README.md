@@ -6,5 +6,5 @@ Customer relationship management (CRM) is a process in which a business or other
 
 ## Tech Used
 
-![Alt text](/relative/path/to/login.png?raw=true "Optional Title")
+![Alt text](../client/appImages/Login.PNG?raw=true "Optional Title")
 
